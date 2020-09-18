@@ -19,8 +19,5 @@ Instructions to run the Demo File:
 10) Block-10 : Evaluate Model = Run this block to evaluate pre-trained or newly created model using precision, recall AUC and ROC curve
 11) Block-11 : Sample Detections = Run this cell to perform face mask detection on some sample images
 12) Block-12 : Difficult Sample Detection = Run this cell to perform face mask detection on a more complex and difficult sample image
-13) Block-13 : Google Colab Webcam Integration = Run this cell if you are using Google Colab and this code will run your webcam and take a picture to do prediction upon
-14) Block-14 : Google Colab Webcam Image Prediction = Run this cell to do pediction on the image taken using webcam when working on Goolge Colab
-15) Block-15 : Webcam Live Results Demo = Run this cell if you are working on a local machine and this code will start a Webcam stream and show you face mask predictions in real-time. Press the key 'q' if you want to stop the execution
 
 Thank you for reading the execution instructions :)  
