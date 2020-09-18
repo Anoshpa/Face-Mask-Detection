@@ -1,3 +1,8 @@
+
+NOTE:
+before running it, download dataset from here and place it into dataset folder
+https://drive.google.com/drive/folders/1NxL-aQE99pgvTBWOoMBsQhzJfI6KjGTe?usp=sharing
+
 # Facial-Mask-Detection
 
 Instructions to run the Demo File:
